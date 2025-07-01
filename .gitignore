@@ -1,0 +1,15 @@
+# Ficheiros gerados automaticamente
+*.ufo
+*.ttf
+*.otf
+*.woff
+*.woff2
+*.pdf
+.DS_Store
+__MACOSX
+
+# Pastas típicas de exportação e backups
+build/
+export/
+fonts/
+backups/
