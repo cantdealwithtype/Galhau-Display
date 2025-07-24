@@ -7,6 +7,12 @@ name = Weight;
 tag = wght;
 }
 );
+customParameters = (
+{
+name = "Update Features";
+value = 1;
+}
+);
 date = "2022-05-30 17:27:32 +0000";
 familyName = "Galhau Display";
 featurePrefixes = (
