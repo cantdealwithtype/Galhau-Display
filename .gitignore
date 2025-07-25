@@ -13,3 +13,6 @@ build/
 export/
 fonts/
 backups/
+
+# Ficheiros temporários / autosave do Affinity Designer
+*~lock~

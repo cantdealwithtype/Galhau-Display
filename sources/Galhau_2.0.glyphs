@@ -1,6 +1,9 @@
 {
 .appVersion = "3343";
 .formatVersion = 3;
+DisplayStrings = (
+"\"A quick brown fox jumps over the lazy dog. Visual harmony between letters like AV, To, Ty, Wa, LY, PA, FA, LT, and Yo is essential. Every spacing issue tells a storysome subtle, some loud. Kern tight where shapes demand, loose where rhythm calls. Typography lives in the space between forms: clean joins in HE, awkward gaps in Ta, elegant flow in fl, fi, ff, fj, and ft. Adjust diagonals in VA, KW, and WA carefully. Round forms like OO, CO, and GO often sit wide. Watch the balance in uppercase: THE QUICK BOLD CAPS SHOUT AT SCALE. Now mix cases: Paired words LikeThis or FromHere often reveal flaws. Numbers 1234567890 need optical alignment. Quotation marks “like these” and apostrophes can shift visual rhythm. Try phrases like: Never Let Go, Always Rise Up, Bright Eyes Watch. Examine repeating patterns: minimal, banana, avocado, wallpaper. Use punctuation.,;:!?to check breathing room. Finally, test in paragraphs: A few fine lines can reveal flaws invisible in isolation.\""
+);
 axes = (
 {
 name = Weight;
