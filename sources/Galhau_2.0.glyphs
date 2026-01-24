@@ -3,7 +3,10 @@
 .formatVersion = 3;
 DisplayStrings = (
 "\"A quick brown fox jumps over the lazy dog. Visual harmony between letters like AV, To, Ty, Wa, LY, PA, FA, LT, LW, AY and Yo is essential. Every spacing issue tells a storysome subtle, some loud. Kern tight where shapes demand, loose where rhythm calls. Typography lives in the space between forms: clean joins in HE, awkward gaps in Ta, elegant flow in fl, fi, ff, fj, and ft. Adjust diagonals in VA, KW, and WA carefully. Round forms like OO, CO, and GO often sit wide. Watch the balance in uppercase: THE QUICK BOLD CAPS SHOUT AT SCaLE. Now mix cases: Paired words LikeThis or FromHere often reveal flaws. Numbers 1234567890 need optical alignment. Quotation marks “like these” and apostrophes can shift visual rhythm. Try phrases like: Never Let Go, Always Rise Up, Bright Eyes Watch. Examine repeating patterns: minimal, banana, avocado, wallpaper. Use punctuation.,;:!?to check breathing room. Finally, test in paragraphs: A few fine lines can reveal flaws invisible in isolation.\"
-"
+letterspacing
+",
+"letterspacing
+starwars"
 );
 axes = (
 {
@@ -1132,7 +1135,7 @@ unicode = (198,230);
 },
 {
 glyphname = B;
-lastChange = "2025-12-02 20:50:55 +0000";
+lastChange = "2026-01-24 19:25:13 +0000";
 layers = (
 {
 hints = (
@@ -1353,12 +1356,12 @@ nodes = (
 (330,0,o),
 (421,66,o),
 (447,200,cs),
-(465,289,o),
+(464,289,o),
 (417,338,o),
 (390,352,c),
-(395,354,l),
-(430,382,o),
-(474,421,o),
+(390,355,l),
+(425,383,o),
+(474,424,o),
 (491,511,cs),
 (514,630,o),
 (459,700,o),
@@ -1439,16 +1442,16 @@ closed = 1;
 nodes = (
 (273,0,ls),
 (412,0,o),
-(522,68,o),
+(523,68,o),
 (548,205,cs),
-(561,271,o),
+(560,271,o),
 (546,317,o),
 (474,353,c),
-(484,358,l),
-(559,397,o),
-(570,439,o),
+(474,358,l),
+(549,397,o),
+(571,439,o),
 (582,505,cs),
-(605,620,o),
+(601,621,o),
 (516,700,o),
 (398,700,cs),
 (155,700,l),
@@ -4403,7 +4406,7 @@ width = 547;
 },
 {
 glyphname = K;
-lastChange = "2025-12-02 18:46:14 +0000";
+lastChange = "2026-01-24 19:25:43 +0000";
 layers = (
 {
 hints = (
@@ -4530,7 +4533,7 @@ nodes = (
 (333,0,l),
 (441,0,l),
 (286,395,l),
-(287,398,l),
+(286,398,l),
 (574,700,l),
 (458,700,l),
 (178,406,l),
@@ -4580,7 +4583,7 @@ nodes = (
 (388,0,l),
 (566,0,l),
 (368,333,l),
-(369,338,l),
+(368,338,l),
 (682,700,l),
 (517,700,l),
 (260,414,l),
@@ -4602,7 +4605,7 @@ unicode = (75,107);
 {
 glyphname = L;
 kernRight = T;
-lastChange = "2025-12-02 20:47:49 +0000";
+lastChange = "2026-01-24 18:55:35 +0000";
 layers = (
 {
 anchors = (
@@ -6889,7 +6892,7 @@ unicode = (81,113);
 },
 {
 glyphname = R;
-lastChange = "2025-11-29 16:48:21 +0000";
+lastChange = "2026-01-24 19:24:11 +0000";
 layers = (
 {
 anchors = (
@@ -7277,8 +7280,8 @@ nodes = (
 (466,296,o),
 (418,343,o),
 (391,356,c),
-(396,358,l),
-(430,386,o),
+(391,359,l),
+(425,387,o),
 (475,424,o),
 (491,511,cs),
 (514,625,o),
@@ -7441,8 +7444,8 @@ nodes = (
 (555,250,o),
 (499,308,o),
 (467,319,c),
-(476,322,l),
-(537,362,o),
+(467,324,l),
+(528,364,o),
 (568,401,o),
 (584,480,cs),
 (609,614,o),
@@ -8395,6 +8398,163 @@ width = 542;
 }
 );
 unicode = (350,351);
+},
+{
+glyphname = Germandbls;
+lastChange = "2026-01-24 19:26:47 +0000";
+layers = (
+{
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(50,0,l),
+(145,0,l),
+(145,610,l),
+(348,610,l),
+(241,406,l),
+(241,313,l),
+(315,313,ls),
+(383,313,o),
+(419,281,o),
+(419,196,cs),
+(419,116,o),
+(368,88,o),
+(311,88,cs),
+(241,88,l),
+(241,-5,l),
+(311,-5,ls),
+(426,-5,o),
+(514,74,o),
+(514,218,cs),
+(514,324,o),
+(426,403,o),
+(347,403,c),
+(347,406,l),
+(455,610,l),
+(455,700,l),
+(50,700,l)
+);
+}
+);
+width = 564;
+},
+{
+layerId = m002;
+shapes = (
+{
+closed = 1;
+nodes = (
+(60,0,l),
+(215,0,l),
+(215,550,l),
+(377,550,l),
+(270,406,l),
+(270,273,l),
+(375,273,ls),
+(449,273,o),
+(459,249,o),
+(459,214,cs),
+(459,179,o),
+(447,148,o),
+(375,148,cs),
+(270,148,l),
+(270,-5,l),
+(411,-5,ls),
+(526,-5,o),
+(614,74,o),
+(614,218,cs),
+(614,324,o),
+(532,401,o),
+(453,401,c),
+(453,406,l),
+(555,550,l),
+(555,700,l),
+(60,700,l)
+);
+}
+);
+width = 664;
+},
+{
+layerId = "D8F3CAC5-A9B1-4672-9BB9-CEA3AD009CC8";
+shapes = (
+{
+closed = 1;
+nodes = (
+(2,0,l),
+(97,0,l),
+(216,610,l),
+(419,610,l),
+(272,406,l),
+(254,313,l),
+(332,313,ls),
+(400,313,o),
+(426,284,o),
+(410,199,cs),
+(395,119,o),
+(334,88,o),
+(277,88,cs),
+(211,88,l),
+(192,-5,l),
+(266,-5,ls),
+(381,-5,o),
+(482,71,o),
+(508,215,cs),
+(527,321,o),
+(457,403,o),
+(378,403,c),
+(378,406,l),
+(526,610,l),
+(543,700,l),
+(138,700,l)
+);
+}
+);
+width = 555;
+},
+{
+layerId = "3CDA7B7F-00EF-4370-9847-3D27010E6E2E";
+shapes = (
+{
+closed = 1;
+nodes = (
+(20,0,l),
+(175,0,l),
+(282,550,l),
+(444,550,l),
+(309,406,l),
+(283,273,l),
+(394,273,ls),
+(459,273,o),
+(466,247,o),
+(462,220,cs),
+(456,184,o),
+(430,148,o),
+(358,148,cs),
+(259,148,l),
+(229,-5,l),
+(376,-5,ls),
+(491,-5,o),
+(586,68,o),
+(616,212,cs),
+(638,318,o),
+(571,401,o),
+(492,401,c),
+(492,406,l),
+(622,550,l),
+(651,700,l),
+(156,700,l)
+);
+}
+);
+width = 663;
+}
+);
+metricLeft = "=H";
+metricRight = "=B";
+unicode = 7838;
 },
 {
 glyphname = T;
@@ -9386,7 +9546,7 @@ unicode = (86,118);
 glyphname = W;
 kernLeft = A;
 kernRight = A;
-lastChange = "2025-12-02 18:46:20 +0000";
+lastChange = "2026-01-24 17:40:17 +0000";
 layers = (
 {
 anchors = (
@@ -11584,7 +11744,7 @@ unicode = 50;
 },
 {
 glyphname = three;
-lastChange = "2025-07-25 18:03:31 +0000";
+lastChange = "2026-01-24 19:23:24 +0000";
 layers = (
 {
 hints = (
@@ -11799,8 +11959,8 @@ nodes = (
 (442,266,o),
 (428,329,o),
 (381,360,c),
-(386,362,l),
-(425,394,o),
+(381,363,l),
+(420,395,o),
 (465,451,o),
 (477,516,cs),
 (495,609,o),
@@ -11856,8 +12016,8 @@ nodes = (
 (534,288,o),
 (489,331,o),
 (431,359,c),
-(441,364,l),
-(491,383,o),
+(431,364,l),
+(481,383,o),
 (543,415,o),
 (563,520,cs),
 (581,612,o),
@@ -23269,6 +23429,9 @@ G = {
 P = {
 "@MMK_R_T" = -70;
 };
+R = {
+"@MMK_R_A" = -20;
+};
 T = {
 "@MMK_R_T" = -60;
 J = -40;
@@ -23276,6 +23439,7 @@ J = -40;
 };
 m002 = {
 "@MMK_L_A" = {
+"@MMK_R_T" = -110;
 A = -110;
 };
 "@MMK_L_T" = {
@@ -23299,6 +23463,9 @@ J = -60;
 };
 P = {
 "@MMK_R_T" = -80;
+};
+R = {
+"@MMK_R_A" = -20;
 };
 T = {
 "@MMK_R_T" = -70;
@@ -23334,6 +23501,9 @@ G = {
 };
 P = {
 "@MMK_R_T" = -70;
+};
+R = {
+"@MMK_R_A" = -10;
 };
 T = {
 "@MMK_R_T" = -80;
@@ -23373,6 +23543,9 @@ N = {
 };
 P = {
 "@MMK_R_T" = -80;
+};
+R = {
+"@MMK_R_A" = -10;
 };
 T = {
 "@MMK_R_T" = -70;
