@@ -4,10 +4,6 @@
 DisplayStrings = (
 "\"A quick brown fox jumps over the lazy dog. Visual harmony between letters like AV, To, Ty, Wa, LY, PA, FA, LT, LW, AY and Yo is essential. Every spacing issue tells a storysome subtle, some loud. Kern tight where shapes demand, loose where rhythm calls. Typography lives in the space between forms: clean joins in HE, awkward gaps in Ta, elegant flow in fl, fi, ff, fj, and ft. Adjust diagonals in VA, KW, and WA carefully. Round forms like OO, CO, and GO often sit wide. Watch the balance in uppercase: THE QUICK BOLD CAPS SHOUT AT SCaLE. Now mix cases: Paired words LikeThis or FromHere often reveal flaws. Numbers 1234567890 need optical alignment. Quotation marks “like these” and apostrophes can shift visual rhythm. Try phrases like: Never Let Go, Always Rise Up, Bright Eyes Watch. Examine repeating patterns: minimal, banana, avocado, wallpaper. Use punctuation.,;:!?to check breathing room. Finally, test in paragraphs: A few fine lines can reveal flaws invisible in isolation.\"
 letterspacing
-",
-".,:;!¡?¿*#///backslash -_(){}[]“”\"'@&¶°|€¢$£¥+×÷=><%↑↗→↘↓↙←↖
-caixax
-0
 "
 );
 axes = (
@@ -22992,7 +22988,7 @@ unicode = 768;
 },
 {
 glyphname = acutecomb;
-lastChange = "2025-07-25 17:54:17 +0000";
+lastChange = "2026-02-09 21:55:19 +0000";
 layers = (
 {
 anchors = (
@@ -23040,10 +23036,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(50,550,l),
 (135,550,l),
 (234,664,l),
-(125,664,l),
-(50,550,l)
+(125,664,l)
 );
 }
 );
@@ -23095,10 +23091,10 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(108,550,l),
 (193,550,l),
 (314,664,l),
-(205,664,l),
-(108,550,l)
+(205,664,l)
 );
 }
 );
