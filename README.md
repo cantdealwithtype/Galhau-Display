@@ -7,7 +7,7 @@ I'm restructuring all the letterforms, expanding new weights creating Obliques, 
 
 - `sources/` — main `.glyphs` file and work-in-progress files
 - `fonts/` — exported font files (`.otf`, `.ttf`, `.woff`) — **not included in the repository**
-- `docs/` — specimens, PDFs, development notes
+- `Specimen/` — specimens, PDFs, development notes
 
 ## Status
 
