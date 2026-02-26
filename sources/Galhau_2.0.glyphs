@@ -3849,7 +3849,7 @@ pos = (195,0);
 ref = J;
 }
 );
-width = 692;
+width = 662;
 },
 {
 layerId = "3CDA7B7F-00EF-4370-9847-3D27010E6E2E";
@@ -4426,11 +4426,11 @@ shapes = (
 ref = J;
 },
 {
-pos = (226,200);
+pos = (196,200);
 ref = acutecomb;
 }
 );
-width = 497;
+width = 467;
 },
 {
 layerId = "3CDA7B7F-00EF-4370-9847-3D27010E6E2E";
@@ -23855,6 +23855,10 @@ unicode = 807;
 }
 );
 instances = (
+{
+name = Variable;
+type = variable;
+},
 {
 axesValues = (
 400,
