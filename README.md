@@ -11,8 +11,9 @@ I'm restructuring all the letterforms, expanding new weights creating Obliques, 
 
 ## Status
 
-🚧 Work in progress.
-✏️ Making all the punctuation for all the masters - Last update 1/07/2025
+Done.
+Published 03 FEB 2026
+[Behance](https://www.behance.net/gallery/245062721/Galhau-Display-20-Free-Font)
 
 ---
 
