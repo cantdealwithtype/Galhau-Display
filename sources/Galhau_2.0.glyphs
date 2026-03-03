@@ -11,6 +11,16 @@ name = Italic;
 tag = ital;
 }
 );
+customParameters = (
+{
+name = "Enforce Compatibility Check";
+value = 1;
+},
+{
+name = "Update Features";
+value = 1;
+}
+);
 date = "2022-05-30 17:27:32 +0000";
 familyName = "Galhau Display";
 featurePrefixes = (
