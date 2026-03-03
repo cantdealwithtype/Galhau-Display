@@ -13,7 +13,7 @@ I'm restructuring all the letterforms, expanding new weights creating Obliques, 
 
 Done.
 Published 03 FEB 2026
-[Behance](https://www.behance.net/gallery/245062721/Galhau-Display-20-Free-Font)
+[Behance](https://www.behance.net/gallery/245062721/Galhau-Display-20-Free-Font) | [Gumroad](https://cantdealwithtype.gumroad.com/l/galhaudisplay) | [site](cantdealwithtype.xyz)
 
 ---
 
