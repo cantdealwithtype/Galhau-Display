@@ -1,5 +1,14 @@
 # Galhau Display 2.0
 
+<p align="center">
+  <img src="Afinitypromotions/Promosfinal/1.png" width="45%" alt="Galhau Display specimen">
+  <img src="Afinitypromotions/Promosfinal/2.png" width="45%" alt="Galhau Display specimen">
+</p>
+<p align="center">
+  <img src="Afinitypromotions/Promosfinal/3.png" width="45%" alt="Galhau Display specimen">
+  <img src="Afinitypromotions/Promosfinal/4.png" width="45%" alt="Galhau Display specimen">
+</p>
+
 Galhau Display 2.0 is a major update to the original Galhau Display, redesigned, expanded and carefully refined to perform better at large sizes while preserving its distinctive voice.
 
 This version revisits the core letterforms, improving proportions, curve tension and overall rhythm. Several glyphs were redrawn to achieve better optical balance and a cleaner silhouette, especially in all-caps settings where spacing and weight distribution are critical.
