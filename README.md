@@ -6,21 +6,26 @@ This version revisits the core letterforms, improving proportions, curve tension
 
 Kerning and sidebearings have been recalibrated across the family. The updated spacing system produces a more even typographic color, tighter rhythm and improved readability without sacrificing the compact, assertive presence that defines the original typeface.
 
-The family includes five weights — Regular, Medium, Semibold, Bold and Extrabold — each with a properly drawn slanted style designed to preserve structural integrity and consistent stroke behavior across weights.
+The family includes five weights — Regular, Medium, Semibold, Bold and Extrabold — each with a properly drawn slanted style designed to preserve structural integrity and consistent stroke behavior across weights. A variable version covering the full weight range is included as well, in TTF and WOFF2.
 
 Positioned within the neo-grotesque tradition but intentionally avoiding neutrality, Galhau Display balances rational construction with subtle character. It is designed for headlines, visual identities, posters and contemporary editorial use where clarity and personality must coexist.
 
-## Project structure
+## Repository contents
 
-- `sources/` — main `.glyphs` file and work-in-progress files
-- `fonts/` — exported font files (`.otf`, `.ttf`, `.woff`)
-- `Specimen/` — specimens, PDFs, development notes
+- `sources/` — Glyphs source file (`Galhau_2.0.glyphs`)
+- `fonts/TTF/` — 10 static styles: five weights plus their slanted companions (`.ttf`)
+- `fonts/VF/` — variable font covering the weight axis (`.ttf` and `.woff2`)
+- `fonts/OFL.txt` — full license text
+- `Specimen/` — specimen PDF
+- `Afinitypromotions/` — promotional images
 
 ## Download
 
 Published February 3, 2026
 
-[Behance](https://www.behance.net/gallery/245062721/Galhau-Display-20-Free-Font) | [Gumroad](https://cantdealwithtype.gumroad.com/l/galhaudisplay) | [cantdealwithtype.xyz](https://cantdealwithtype.xyz/)
+The compiled fonts are in this repository — see `fonts/TTF/` for the static styles and `fonts/VF/` for the variable font.
+
+Also available at [Behance](https://www.behance.net/gallery/245062721/Galhau-Display-20-Free-Font) | [Gumroad](https://cantdealwithtype.gumroad.com/l/galhaudisplay) | [cantdealwithtype.xyz](https://cantdealwithtype.xyz/)
 
 ## License
 
