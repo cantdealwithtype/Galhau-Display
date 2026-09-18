@@ -5,7 +5,6 @@ __MACOSX
 # Pastas típicas de exportação e backups
 build/
 export/
-fonts/
 backups/
 
 # Ficheiros temporários / autosave do Affinity Designer
