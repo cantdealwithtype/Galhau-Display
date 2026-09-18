@@ -15,15 +15,15 @@ This version revisits the core letterforms, improving proportions, curve tension
 
 Kerning and sidebearings have been recalibrated across the family. The updated spacing system produces a more even typographic color, tighter rhythm and improved readability without sacrificing the compact, assertive presence that defines the original typeface.
 
-The family includes five weights — Regular, Medium, Semibold, Bold and Extrabold — each with a properly drawn slanted style designed to preserve structural integrity and consistent stroke behavior across weights. A variable version covering the full weight range is included as well, in TTF and WOFF2.
+The family includes five weights - Regular, Medium, Semibold, Bold and Extrabold — each with a properly drawn slanted style designed to preserve structural integrity and consistent stroke behavior across weights. A variable version covering the full weight range is included as well, in TTF and WOFF2.
 
 Positioned within the neo-grotesque tradition but intentionally avoiding neutrality, Galhau Display balances rational construction with subtle character. It is designed for headlines, visual identities, posters and contemporary editorial use where clarity and personality must coexist.
 
 ## Repository contents
 
-- `sources/` — Glyphs source file (`Galhau_2.0.glyphs`)
+- `sources/` - Glyphs source file (`Galhau_2.0.glyphs`)
 - `fonts/TTF/` — 10 static styles: five weights plus their slanted companions (`.ttf`)
-- `fonts/VF/` — variable font covering the weight axis (`.ttf` and `.woff2`)
+- `fonts/VF/` — variable font covering the weight axis and slanted axis (`.ttf` and `.woff2`)
 - `fonts/OFL.txt` — full license text
 - `Specimen/` — specimen PDF
 - `promotional/` — specimen and promotional images
