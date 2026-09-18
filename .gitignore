@@ -7,5 +7,6 @@ build/
 export/
 backups/
 
-# Ficheiros temporários / autosave do Affinity Designer
+# Ficheiros do Affinity Designer
 *~lock~
+*.afdesign

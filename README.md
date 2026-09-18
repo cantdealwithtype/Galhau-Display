@@ -1,12 +1,12 @@
 # Galhau Display 2.0
 
 <p align="center">
-  <img src="Afinitypromotions/Promosfinal/1.png" width="45%" alt="Galhau Display specimen">
-  <img src="Afinitypromotions/Promosfinal/2.png" width="45%" alt="Galhau Display specimen">
+  <img src="promotional/specimens/1.png" width="45%" alt="Galhau Display specimen">
+  <img src="promotional/specimens/2.png" width="45%" alt="Galhau Display specimen">
 </p>
 <p align="center">
-  <img src="Afinitypromotions/Promosfinal/3.png" width="45%" alt="Galhau Display specimen">
-  <img src="Afinitypromotions/Promosfinal/4.png" width="45%" alt="Galhau Display specimen">
+  <img src="promotional/specimens/3.png" width="45%" alt="Galhau Display specimen">
+  <img src="promotional/specimens/4.png" width="45%" alt="Galhau Display specimen">
 </p>
 
 Galhau Display 2.0 is a major update to the original Galhau Display, redesigned, expanded and carefully refined to perform better at large sizes while preserving its distinctive voice.
@@ -26,7 +26,7 @@ Positioned within the neo-grotesque tradition but intentionally avoiding neutral
 - `fonts/VF/` — variable font covering the weight axis (`.ttf` and `.woff2`)
 - `fonts/OFL.txt` — full license text
 - `Specimen/` — specimen PDF
-- `Afinitypromotions/` — promotional images
+- `promotional/` — specimen and promotional images
 
 ## Download
 
