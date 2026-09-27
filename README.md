@@ -25,7 +25,7 @@ Positioned within the neo-grotesque tradition but intentionally avoiding neutral
 - `fonts/TTF/` — 10 static styles: five weights plus their slanted companions (`.ttf`)
 - `fonts/VF/` — variable font covering the weight axis and slanted axis (`.ttf` and `.woff2`)
 - `fonts/OFL.txt` — full license text
-- `Specimen/` — specimen PDF
+- `Specimen/`
 - `promotional/` — specimen and promotional images
 
 ## Download
